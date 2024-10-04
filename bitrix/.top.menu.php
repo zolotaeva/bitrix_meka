@@ -1,0 +1,54 @@
+<?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
+<?
+$aMenuLinks = Array(
+	Array(
+		"Каталог", 
+		"catalog/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		"company/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Команда", 
+		"team/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Решения", 
+		"solutions/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Поддержка", 
+		"support/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Пресс-центр", 
+		"news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
